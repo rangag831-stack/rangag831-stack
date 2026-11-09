@@ -1,9 +1,10 @@
 !Header
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=RAJESH%20GANISETTI&fontSize=45&fontColor=00C9FF&fontAlign=50&fontAlignY=50" alt="RAJESH GANİSETTI"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hi%2C%20I%27m%20Rajesh%20Ganisetti%20%F0%9F%91%8B&fontSize=35&fontColor=00C9FF&fontAlign=50&fontAlignY=50" alt="Hi, I'm Rajesh Ganisetti"/>
 </p>
 
+<h3 align="center">🐍 Aspiring Full Stack Python Developer</h3>
 
 <h3 align="center">🐍 Aspiring Full Stack Python Developer</h3>
 
