@@ -1,6 +1,9 @@
+!Header
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajesh+Ganisetti+%F0%9F%91%8B;Aspiring+Full+Stack+Python+Developer+%F0%9F%90%8D" alt="Rajesh Ganisetti"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajesh+Ganisetti+%F0%9F%91%8B;Aspiring+Full+Stack+Python+Developer+%F0%9F%90%8D;IT+Fresher+%7C+Software+Enthusiast" alt="Typing SVG"/>
 </p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Python%20Developer-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Experience-Entry%20Level-success?style=for-the-badge"/>
@@ -21,32 +24,32 @@ I'm Rajesh Ganisetti, an enthusiastic IT fresher aspiring to become a Full Stack
 🛠️ Technical Skills
 💻 Programming Language
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
 </p>
 
 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" height="55" alt="HTML CSS"/>
 </p>
 
 ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django" height="55" alt="Django"/>
 </p>
 
 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="SQLite"/>
 </p>
 
 🔧 Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" alt="Git GitHub VS Code"/>
 </p>
 
 🚀 My Projects
@@ -58,29 +61,29 @@ Project	Description
 📊 GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rangag831-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rangag831-stack&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rangag831-stack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rangag831-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangag831-stack&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangag831-stack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 🐍 Python Developer
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" alt="Python Logo"/>
 </p>
 
-<h3 align="center">"Code. Learn. Build. Repeat."</h3>
+<h3 align="center">💡 "Code. Learn. Build. Repeat." 🚀</h3>
 
 📫 Connect With Me
 
 <p align="center">
 <a href="https://github.com/rangag831-stack">
-<img src="https://img.shields.io/badge/GitHub-rangag831--stack-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-rangag831--stack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
