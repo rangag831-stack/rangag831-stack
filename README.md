@@ -2,8 +2,6 @@
 RAJESH GANİSETTI
 🐍 Aspiring Python Developer | IT Fresher | Software Developer
 
-![Open to Work](https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge)
-
 👨‍💻 About Me
 
 I am an enthusiastic and motivated IT fresher passionate about programming and software development.
