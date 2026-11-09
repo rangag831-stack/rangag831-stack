@@ -1,6 +1,8 @@
 !Header
 
-<h1 align="center">👋 Hi, I'm Rajesh Ganisetti</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=999999&color=7B2FF7&center=true&vCenter=true&repeat=false&width=650&lines=👋+Hi%2C+I'm+Rajesh+Ganisetti" alt="Rajesh Ganisetti"/>
+</p>
 
 <h3 align="center">🐍 Aspiring Full Stack Python Developer</h3>
 
