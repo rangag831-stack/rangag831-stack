@@ -1,9 +1,6 @@
-!Header
-
-<h2 align="center">👋 Hello World! I'm Rajesh Ganisetti</h2>
-
-<h3 align="center">🐍 Full Stack Python Developer | IT Fresher 🚀</h3>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajesh+Ganisetti+%F0%9F%91%8B;Aspiring+Full+Stack+Python+Developer+%F0%9F%90%8D" alt="Rajesh Ganisetti"/>
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Python%20Developer-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Experience-Entry%20Level-success?style=for-the-badge"/>
