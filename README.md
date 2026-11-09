@@ -6,8 +6,6 @@
 
 <h3 align="center">🐍 Aspiring Full Stack Python Developer</h3>
 
-<h3 align="center">🐍 Aspiring Full Stack Python Developer</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/IT-Fresher-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software-Developer-blue?style=for-the-badge"/>
