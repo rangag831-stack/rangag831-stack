@@ -1,13 +1,13 @@
 !Header
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajesh+Ganisetti+%F0%9F%91%8B;Aspiring+Full+Stack+Python+Developer+%F0%9F%90%8D;IT+Fresher+%7C+Software+Enthusiast" alt="Typing SVG"/>
-</p>
+<h1 align="center">👋 Hi, I'm Rajesh Ganisetti</h1>
+
+<h3 align="center">🐍 Aspiring Full Stack Python Developer</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Python%20Developer-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Experience-Entry%20Level-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IT-Fresher-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open-To%20Work-success?style=for-the-badge"/>
 </p>
 
 🌟 About Me
