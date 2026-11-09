@@ -31,25 +31,25 @@ I'm Rajesh Ganisetti, an enthusiastic IT fresher aspiring to become a Full Stack
 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,flask" />
+<img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 🚀 My Projects
